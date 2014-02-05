@@ -38,7 +38,6 @@ def rec():
 		f.write(newData)
 		f.write(",\n")
 	f.write("]")
-	print sims[1]	
 
 if __name__ == '__main__':
 	rec()
